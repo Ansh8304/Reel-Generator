@@ -1,0 +1,4 @@
+file '6.jpg'
+duration 2
+file '2.jpg'
+duration 2
